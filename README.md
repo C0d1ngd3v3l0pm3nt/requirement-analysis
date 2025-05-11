@@ -50,4 +50,6 @@ These are requirements that describe how a system should perform. In the air bnb
   - They provide the basis for testing and validation of features in the system
   - They ensure all parties have a clear understanding of existing requirements
   - They help in maintaining quality and user expectations.
+- An example of user criteria that could be used for a checkout feature would be:
+    - users should be able to confirm the air bnb they decide to choose and make a payment to book the air bnb in under two minutes
   
