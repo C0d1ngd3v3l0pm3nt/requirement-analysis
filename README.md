@@ -40,7 +40,10 @@ These are requirements that describe how a system should perform. In the air bnb
 - The benefits of using case diagrams include:
   - They provide a clear visual representation of how different components of the systems work.
   - They help in identifying and organizing system requirements
-  - They help facilitate communication between stakeholders and the project team 
+  - They help facilitate communication between stakeholders and the project team
+- The following is an example of a use case diagram.
+  ![use case diagram for a booking system](alx-booking-uc.png)
+  
 ## Acceptance Criteria
 - These are the conditions a project must meet so that it can accepted by stakeholders.
 - Acceptance criteria are important because:
